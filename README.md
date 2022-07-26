@@ -15,12 +15,12 @@ As informações contidas no dataset abrangem detalhes específicos de cada ocor
 ## Descrição dos arquivos
 
 * alberta_fires_1996to2005.csv
-    Dados dos incêndios registrados na província de Alberta do ano de 1996 até 2005  
+    - Dados dos incêndios registrados na província de Alberta do ano de 1996 até 2005  
 * alberta_fires_2006to2018.csv
-    Dados dos incêndios registrados na província de Alberta do ano de 2006 até 2018  
+    - Dados dos incêndios registrados na província de Alberta do ano de 2006 até 2018  
 * features_alberta_canada.pdf
-    Descreve cada variável contida no Dataframe 
+    - Descreve cada variável contida no Dataframe 
 * incendios_alberta_pre_processamento_versao_final.ipynb
-    Notebook com pré-processamento, execução dos modelos e exibição de gráficos e métricas 
+    - Notebook com pré-processamento, execução dos modelos e exibição de gráficos e métricas 
 * requirements.txt
-    Exibe as bibliotecas contidas no ambiente de desenvolvimento e suas respectivas versões
+    - Exibe as bibliotecas contidas no ambiente de desenvolvimento e suas respectivas versões
