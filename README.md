@@ -10,3 +10,17 @@ A província de Alberta no Canadá possui um amplo sistema de monitoramento e co
 ## Dataframe:
 
 As informações contidas no dataset abrangem detalhes específicos de cada ocorrência de incêndio registrada, tais como: área florestal, latitude, longitude, área atingida pelo fogo, origem do fogo, prováveis causas, data e hora de detecção, de início de combate, de controle e de extinção do incêndio.
+> Para mais informações sobre o dataset, visite: https://wildfire.alberta.ca/resources/historical-data/historical-wildfire-database.aspx 
+
+## Descrição dos arquivos
+
+* alberta_fires_1996to2005.csv
+    Dados dos incêndios registrados na província de Alberta do ano de 1996 até 2005  
+* alberta_fires_2006to2018.csv
+    Dados dos incêndios registrados na província de Alberta do ano de 2006 até 2018  
+* features_alberta_canada.pdf
+    Descreve cada variável contida no Dataframe 
+* incendios_alberta_pre_processamento_versao_final.ipynb
+    Notebook com pré-processamento, execução dos modelos e exibição de gráficos e métricas 
+* requirements.txt
+    Exibe as bibliotecas contidas no ambiente de desenvolvimento e suas respectivas versões
